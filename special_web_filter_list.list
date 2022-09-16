@@ -1,14 +1,15 @@
-HOST-SUFFIX, rfa.org
-HOST-SUFFIX, gov.tw
-HOST-SUFFIX, talk.news.pts.org.tw
-HOST-KEYWORD, zhuichaguoji
-HOST-KEYWORD, efcc.org
-HOST-KEYWORD, cyberpolice
-HOST-SUFFIX, abolu­owang.com
-HOST-SUFFIX, epochtimes.com
-HOST-SUFFIX, mingjingnews.com
-HOST-SUFFIX, inmediahk.net
-HOST-SUFFIX, xinsheng.net
-HOST-SUFFIX, bannedbook.org
-HOST-SUFFIX, ntdtv.com
-HOST-SUFFIX, epochweekly.com
+HOST-SUFFIX, rfa.org,特殊网页
+HOST-SUFFIX, gov.tw ,特殊网页
+HOST-SUFFIX, talk.news.pts.org.tw ,特殊网页
+HOST-KEYWORD, zhuichaguoji ,特殊网页
+HOST-KEYWORD, efcc.org ,特殊网页
+HOST-KEYWORD, cyberpolice ,特殊网页
+HOST-SUFFIX, aboluowang.com ,特殊网页
+HOST-SUFFIX, epochtimes.com ,特殊网页
+HOST-SUFFIX, mingjingnews.com ,特殊网页
+HOST-SUFFIX, inmediahk.net ,特殊网页
+HOST-SUFFIX, xinsheng.net ,特殊网页
+HOST-SUFFIX, bannedbook.org ,特殊网页
+HOST-SUFFIX, ntdtv.com ,特殊网页
+HOST-SUFFIX, epochweekly.com ,特殊网页
+
