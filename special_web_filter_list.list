@@ -1,13 +1,13 @@
-HOST-SUFFIX, rfa.org,a
-HOST-KEYWORD, zhuichaguoji ,a
-HOST-KEYWORD, efcc.org ,a
-HOST-KEYWORD, cyberpolice ,a
-HOST-SUFFIX, aboluowang.com ,a
-HOST-SUFFIX, epochtimes.com ,a
-HOST-SUFFIX, mingjingnews.com ,a
-HOST-SUFFIX, inmediahk.net,a
-HOST-SUFFIX, xinsheng.net ,a
-HOST-SUFFIX, bannedbook.org ,a
-HOST-SUFFIX, ntdtv.com ,a
-HOST-SUFFIX, epochweekly.com ,a
+DOMAIN-SUFFIX, rfa.org,a
+DOMAIN-KEYWORD, zhuichaguoji ,a
+DOMAIN-KEYWORD, efcc.org ,a
+DOMAIN-KEYWORD, cyberpolice ,a
+DOMAIN-SUFFIX, aboluowang.com ,a
+DOMAIN-SUFFIX, epochtimes.com ,a
+DOMAIN-SUFFIX, mingjingnews.com ,a
+DOMAIN-SUFFIX, inmediahk.net,a
+DOMAIN-SUFFIX, xinsheng.net ,a
+DOMAIN-SUFFIX,bannedbook.org ,a
+DOMAIN-SUFFIX,ntdtv.com ,a
+DOMAIN-SUFFIX,epochweekly.com ,a
 
